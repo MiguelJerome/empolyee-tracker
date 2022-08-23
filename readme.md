@@ -17,14 +17,14 @@ Employee Tracker
 ## Installation instructions
 ![NPM-Package](./images/Screenshot%202022-08-23%20005912.png) 
 ![Schema-Design](./images/Screenshot%20Design-Schema.png) 
-![Schema-Final](//images/Screenshot%20Final%20Schema.png)
+![Schema-Final](./images/Screenshot%20Final%20Schema.png)
 
 ## Usage Information
 * This Employee Tracker is for personal and professional use.
 
 ## Contribution Guidelines
 * This is a final product, that is ready to be use.
-* [Employee Tracker Page Ressources](https://github.com/MiguelJerome/Team-profile-generator)
+* [Employee Tracker Page Ressources](https://github.com/MiguelJerome/empolyee-tracker)
 
 ## Test Instructions
 * This Employee Tracker works and is ready to be use.
