@@ -25,6 +25,7 @@ Employee Tracker
 ## Contribution Guidelines
 * This is a final product, that is ready to be use.
 * [Employee Tracker Page Ressources](https://github.com/MiguelJerome/empolyee-tracker)
+* [Video-Usage-Employee-Tracker](https://livelacitecon-my.sharepoint.com/:v:/g/personal/2001326_collegelacite_ca/ET7tprgBXdZEp_w1iLBC5u4BqBNb_xXyZztkQklH5KcSmA)
 
 ## Test Instructions
 * This Employee Tracker works and is ready to be use.
