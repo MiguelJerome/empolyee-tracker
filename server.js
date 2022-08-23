@@ -2,7 +2,7 @@ var express = require("express");
 const connection = require('./db');
 const init = require("./index");
 const main = require('./index');
-
+const PORT = process.env.PORT || 3005;
 var app = express();
 
 
@@ -12,8 +12,8 @@ app.use(express.json());
 
 
 
-app.listen(3005, function(){
-  console.log('App listening on port 3005');
+app.listen(PORT, function(){
+  console.log(`App listening on port ${PORT}!`);
 }
 );
 
